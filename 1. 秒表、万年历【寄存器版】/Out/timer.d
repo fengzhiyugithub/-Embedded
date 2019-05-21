@@ -1,0 +1,11 @@
+..\out\timer.o: ..\HAEDWARE\timer\timer.c
+..\out\timer.o: ..\HAEDWARE\timer\timer.h
+..\out\timer.o: ..\SYSTEM\sys\sys.h
+..\out\timer.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\out\timer.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\out\timer.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\out\timer.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\out\timer.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\out\timer.o: ..\SYSTEM\delay\delay.h
+..\out\timer.o: ..\HAEDWARE\led\led.h
+..\out\timer.o: ..\HAEDWARE\key\key.h

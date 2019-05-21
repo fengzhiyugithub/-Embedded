@@ -1,0 +1,64 @@
+Dependencies for Project 'TimerClock', Target 'ClockTimer': (DO NOT MODIFY !)
+F (..\HAEDWARE\key\key.c)(0x5CE206DD)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\key.o --omf_browse ..\out\key.crf --depend ..\out\key.d)
+I (..\HAEDWARE\key\key.h)(0x5CE21013)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+I (..\SYSTEM\delay\delay.h)(0x54AAA176)
+F (..\HAEDWARE\led\led.c)(0x5C221CA2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\led.o --omf_browse ..\out\led.crf --depend ..\out\led.d)
+I (..\HAEDWARE\led\led.h)(0x54AAA176)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+F (..\HAEDWARE\timer\timer.c)(0x5CE402F2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\timer.o --omf_browse ..\out\timer.crf --depend ..\out\timer.d)
+I (..\HAEDWARE\timer\timer.h)(0x5CE3F944)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+I (..\SYSTEM\delay\delay.h)(0x54AAA176)
+I (..\HAEDWARE\led\led.h)(0x54AAA176)
+I (..\HAEDWARE\key\key.h)(0x5CE21013)
+F (..\SYSTEM\delay\delay.c)(0x5C22173C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\delay.o --omf_browse ..\out\delay.crf --depend ..\out\delay.d)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+I (..\SYSTEM\delay\delay.h)(0x54AAA176)
+F (..\SYSTEM\sys\sys.c)(0x5C2217DD)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\sys.o --omf_browse ..\out\sys.crf --depend ..\out\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+F (..\SYSTEM\usart\usart.c)(0x5C2218C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\usart.o --omf_browse ..\out\usart.crf --depend ..\out\usart.d)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+I (..\SYSTEM\usart\usart.h)(0x55778E30)
+I (E:\software\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+F (.\main.c)(0x5CE402C6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HAEDWARE\key -I..\HAEDWARE\led -I..\HAEDWARE\timer -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart-I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x-o ..\out\main.o --omf_browse ..\out\main.crf --depend ..\out\main.d)
+I (..\HAEDWARE\timer\timer.h)(0x5CE3F944)
+I (..\SYSTEM\sys\sys.h)(0x54AAA1E2)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x54AAA160)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x54AAA160)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x54AAA160)
+I (..\SYSTEM\delay\delay.h)(0x54AAA176)
+I (..\HAEDWARE\led\led.h)(0x54AAA176)
+I (..\HAEDWARE\key\key.h)(0x5CE21013)
+F (.\STM32F10x.s)(0x508759AC)(--cpu Cortex-M3 -g --apcs=interwork -I E:\software\Keil\ARM\RV31\INC-I E:\software\Keil\ARM\CMSIS\Include-I E:\software\Keil\ARM\Inc\ST\STM32F10x--list ..\out\stm32f10x.lst --xref -o ..\out\stm32f10x.o --depend ..\out\stm32f10x.d)

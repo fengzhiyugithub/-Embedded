@@ -1,0 +1,13 @@
+--cpu Cortex-M3
+"..\out\key.o"
+"..\out\led.o"
+"..\out\timer.o"
+"..\out\delay.o"
+"..\out\sys.o"
+"..\out\usart.o"
+"..\out\main.o"
+"..\out\stm32f10x.o"
+--strict --scatter "..\Out\TimerClock.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\Out\TimerClock.map" -o ..\Out\TimerClock.axf
